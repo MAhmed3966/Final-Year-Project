@@ -1,0 +1,12 @@
+FIRST WE NEED TO CREATE OUR VIRTUAL ENVIRONMENT
+
+-> pip install virtualenv (to install virtual environment)
+->  create virtual env like:
+
+
+
+DJANGO SECTION:
+->Create Django Project: (django-admin startproject projectName)
+after entering the command u'll see there are bunch of files creating in the directory
+
+->
